@@ -1,0 +1,32 @@
+{
+  "files": {
+    "static/js/0.23487108.chunk.js": "/NewsView-Application/static/js/0.23487108.chunk.js",
+    "static/js/0.23487108.chunk.js.map": "/NewsView-Application/static/js/0.23487108.chunk.js.map",
+    "main.css": "/NewsView-Application/static/css/main.906c67b7.chunk.css",
+    "main.js": "/NewsView-Application/static/js/main.48e44bf8.chunk.js",
+    "main.js.map": "/NewsView-Application/static/js/main.48e44bf8.chunk.js.map",
+    "runtime-main.js": "/NewsView-Application/static/js/runtime-main.d392cb96.js",
+    "runtime-main.js.map": "/NewsView-Application/static/js/runtime-main.d392cb96.js.map",
+    "static/css/3.07102e08.chunk.css": "/NewsView-Application/static/css/3.07102e08.chunk.css",
+    "static/js/3.cdc5d1f9.chunk.js": "/NewsView-Application/static/js/3.cdc5d1f9.chunk.js",
+    "static/js/3.cdc5d1f9.chunk.js.map": "/NewsView-Application/static/js/3.cdc5d1f9.chunk.js.map",
+    "static/js/4.bcd42b79.chunk.js": "/NewsView-Application/static/js/4.bcd42b79.chunk.js",
+    "static/js/4.bcd42b79.chunk.js.map": "/NewsView-Application/static/js/4.bcd42b79.chunk.js.map",
+    "static/js/5.f63f2cf2.chunk.js": "/NewsView-Application/static/js/5.f63f2cf2.chunk.js",
+    "static/js/5.f63f2cf2.chunk.js.map": "/NewsView-Application/static/js/5.f63f2cf2.chunk.js.map",
+    "index.html": "/NewsView-Application/index.html",
+    "precache-manifest.3e19188053e0db0daeefc993045f5350.js": "/NewsView-Application/precache-manifest.3e19188053e0db0daeefc993045f5350.js",
+    "service-worker.js": "/NewsView-Application/service-worker.js",
+    "static/css/3.07102e08.chunk.css.map": "/NewsView-Application/static/css/3.07102e08.chunk.css.map",
+    "static/css/main.906c67b7.chunk.css.map": "/NewsView-Application/static/css/main.906c67b7.chunk.css.map",
+    "static/js/0.23487108.chunk.js.LICENSE.txt": "/NewsView-Application/static/js/0.23487108.chunk.js.LICENSE.txt",
+    "static/js/3.cdc5d1f9.chunk.js.LICENSE.txt": "/NewsView-Application/static/js/3.cdc5d1f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d392cb96.js",
+    "static/css/3.07102e08.chunk.css",
+    "static/js/3.cdc5d1f9.chunk.js",
+    "static/css/main.906c67b7.chunk.css",
+    "static/js/main.48e44bf8.chunk.js"
+  ]
+}
